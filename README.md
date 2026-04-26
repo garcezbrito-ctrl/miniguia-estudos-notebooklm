@@ -1,4 +1,4 @@
-#Contexto e Objetivos
+# Contexto e Objetivos
 Este projeto surgiu da necessidade de superar barreiras comuns no aprendizado de textos longos, especialmente para quem lida com TDAH e a falta de métodos de estudo ativos, como o método socrático.
 
 O objetivo é utilizar a Inteligência Artificial para:
@@ -10,18 +10,18 @@ O objetivo é utilizar a Inteligência Artificial para:
 ##Fixação de conteúdo: Criar um ambiente de estudo personalizado onde a IA atua como um tutor, facilitando a organização da rotina e das tarefas.
 
 
-#Curadoria de Fontes:
+# Curadoria de Fontes:
 - https://revistaeducacao.com.br/2022/07/20/neuroeducacao-estrategias-de-aprendizagem/
 - https://blog.google/intl/pt-br/novidades/tecnologia/notebooklm-chega-ao-brasil-e-suporta-sites-slides-e-mais/
 - https://meuartigo.brasilescola.uol.com.br/filosofia/o-metodo-socratico.htm
 
 
-#Engenharia de Prompts e "Cicatrizes:
+# Engenharia de Prompts e "Cicatrizes:
 
 ""Com base no conteúdo que acabamos de discutir sobre neuroeducação, crie um Desafio de Estudo Socrático para mim. Divida o tema em 3 'fases' de 15 minutos. Para cada fase, você deve me fazer uma pergunta desafiadora (Maiêutica) em vez de me dar um resumo. Se eu responder corretamente, eu ganho uma 'recompensa' virtual (como uma curiosidade bônus ou um elogio criativo). Se eu errar, você deve me guiar com uma nova pergunta até eu descobrir o caminho""
 
 
-#Seção de Glossário
+# Seção de Glossário
 
 ##Controle Inibitório 🧠: A capacidade do cérebro de suprimir distrações para focar em uma tarefa.
 
