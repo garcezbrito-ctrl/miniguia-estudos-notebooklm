@@ -11,9 +11,9 @@ O objetivo é utilizar a Inteligência Artificial para:
 
 
 #Curadoria de Fontes:
-https://revistaeducacao.com.br/2022/07/20/neuroeducacao-estrategias-de-aprendizagem/
-https://blog.google/intl/pt-br/novidades/tecnologia/notebooklm-chega-ao-brasil-e-suporta-sites-slides-e-mais/
-https://meuartigo.brasilescola.uol.com.br/filosofia/o-metodo-socratico.htm
+- https://revistaeducacao.com.br/2022/07/20/neuroeducacao-estrategias-de-aprendizagem/
+- https://blog.google/intl/pt-br/novidades/tecnologia/notebooklm-chega-ao-brasil-e-suporta-sites-slides-e-mais/
+- https://meuartigo.brasilescola.uol.com.br/filosofia/o-metodo-socratico.htm
 
 
 #Engenharia de Prompts e "Cicatrizes:
